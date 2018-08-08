@@ -1,7 +1,7 @@
 # Activit-_Git_GitHub_Part2
 Repository pour le cours sur Git et GitHub du site Openclassrooms.com
 
-Ce document va documenter les différentes phases suivies pour répondre à l'énoncé de l'exercice:
+Ce fichier va documenter les différentes phases suivies pour répondre à l'énoncé de l'exercice:
 
 1. Création de ce Repo sur Github.
 2. Clonage du Repo sur ma machine avec la commande 'git clone'
@@ -18,3 +18,4 @@ Ce document va documenter les différentes phases suivies pour répondre à l'é
 13. Dernier ajout au fichier 'juste_du_texte.txt' ligne 16 à 20
 14. Dernier commit 'git commit -am ""'
 15. Push des modifications sur GitHub avec 'git push origin master'
+16. Correction d'erreurs diverses à 'README.md'
