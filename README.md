@@ -13,3 +13,8 @@ Ce document va documenter les différentes phases suivies pour répondre à l'é
 8. Création du fichier 'Git_commandes_principales.txt'
 9. Ajout des commandes principales dans le fichier 'Git_commandes_principales.txt'
 10. Ajout des lignes 7 à 15 dans le fichier 'juste_du_texte.txt'
+11. Ajout du fichier 'Git_commandes_principales.txt' à l'index 'git add'
+12. Commit des modifications 'git commit -am ""'
+13. Dernier ajout au fichier 'juste_du_texte.txt' ligne 16 à 20
+14. Dernier commit 'git commit -am ""'
+15. Push des modifications sur GitHub avec 'git push origin master'

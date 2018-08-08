@@ -13,3 +13,8 @@ Je sais qu'il en existe énormément, en ajoutant les options cela fait beaucoup
 A mon avis c'est inutile de tout mémoriser, l'important étant de connaitre les commandes principales(celles qui nous sont le plus utile)
 Le plus important, toujours selon moi, étant de connaitre les possibilité offertes par le terminal.
 Pour info je suis sur Windows 10, le terminal n'est pas quelque chose auquel je suis habitué mais je comprends son potentiel et je me plais à l'utiliser.
+
+Je renseignerai le fichier 'Git_commandes_principales.txt' à mesure que j'apprendrai de nouvelles commandes.
+A ce propos: certaines commandes sont peut-être mal renseignées(descriptions trop vagues ou erronées) je les modifierai à mesure que mes connaissances et ma compréhension évolueront.
+
+Ceci est la dernière entrée avant le push vers le remote(GitHub)
