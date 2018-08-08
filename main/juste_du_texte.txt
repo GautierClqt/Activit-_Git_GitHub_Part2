@@ -1,6 +1,15 @@
-Comme son nom l'indique ce document ne contient que du texte.
+﻿Comme son nom l'indique ce document ne contient que du texte.
 Je ne suis pas développeur, pas encore.
 Je suis le parcours de développeur applications Android sur Openclassrooms.
-Je n'en suis qu'au début, je n'ai pas encore appris à coder c'est pourquoi vous n'en trouvera pas.
+Je n'en suis qu'au début, je n'ai pas encore appris à coder c'est pourquoi vous n'en trouverai pas.
 Pour l'instant je découvre Git et GitHub et je trouve ça vraiment intéressant.
 Ayant plusieurs projets de développement en tête je pense que ça me sera utile.
+
+Si vous lisez le README.md vous pouvez voir les différentes étapes que je suis pour réaliser cette activité
+J'essais de documenter au maximum mon travail ainsi que mes progrés.
+Je pense que c'est un réflexe à avoir lorsqu'on veut être développeur: savoir documenter ce que l'on fait pour soit et pour les autres afin de s'y retrouver.
+J'ai créé le fichier 'Git_commandes_principales.txt' afin de lister les commandes du terminal que j'ai utilisé jusque là.
+Je sais qu'il en existe énormément, en ajoutant les options cela fait beaucoup de choses à mémoriser.
+A mon avis c'est inutile de tout mémoriser, l'important étant de connaitre les commandes principales(celles qui nous sont le plus utile)
+Le plus important, toujours selon moi, étant de connaitre les possibilité offertes par le terminal.
+Pour info je suis sur Windows 10, le terminal n'est pas quelque chose auquel je suis habitué mais je comprends son potentiel et je me plais à l'utiliser.

@@ -1,0 +1,36 @@
+RACCOURCIS:
+Shift+Insert -> coller
+Ctrl+C -> kill l'action en cours (même résultat que le commande "kill")
+
+COMMANDES GENERALES!
+cd x -> se positionne dans le dossier du chemin d'accés "x"
+cd .. -> Retourne dans le dossier parent
+ls -> liste les dossiers et fichiers présent dans le dossier(options: -l -> liste verticale avec plus de détails)
+pwd -> indique le chemin d'accés du dossier actuel
+mkdir x -> créé le dossier au nom "x"
+touch x.y -> créé le fichier "x" au format "y"
+rmdir x -> supprime le dossier vide "x"
+rm x -> supprime le fichier "x" (option: -i -> demande une confirmation pour la suppression)
+rm -R x-> supprime le dossier "x" et tout ce qu'il contient (option: -i -> demande une confirmation à chaque élément supprimé)
+kill -> arrête l'action en cours, pour repprendre la main sur le terminal
+start x -> ouvre le logiciel "x" (exemple: start notepad)
+start x y -> ouvre le fichier "y" avec le logiciel "x"
+
+COMMANDES GIT:
+git init -> définit le dossier actuel en tant que Repository
+git status -> donne le status du Repository actuel(en vert les éléments modifié et indexé mais non commité, en rouge les éléments modifié non ajouté à l'index et non commité)
+git add x -> ajoute l'élément "x" à l'index
+git commit -> Commit(enregistre/confirme) les modifications (/!\IMPORTANT/!\option: -m "x" -> ajoute le commentaire x /!\IMPORTANT/!\)
+git commit -a -> Ajoute les fichiers modifiers déjà trackés et fait un commit
+git log -> donne l'historique de tous les commits
+git cherckout x -> Se positionne dans l'historique au SHA x (le SHA est l'identifiant unique d'un log)
+git checkout master -> Positionne l'historique au log le plus récent
+git commit --amend -m -> modifie le commentaire du dernier commit non pushé
+git reset --hard -> annule les changement non-commité
+git branch -> liste les branches existantes
+git checkout x -> se positionne sur la branche "x"
+git branch -d x -> supprime la branche "x"
+git clone x -> clone le repository à l'adresse "x"
+git pull x y -> récupère les modifications de la branche y du remote x (a condition d'avoir précédemment git clone ce repository)
+git push x y -> envoie les modifications de la branche y au remote x
+...

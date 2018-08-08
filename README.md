@@ -10,3 +10,6 @@ Ce document va documenter les différentes phases suivies pour répondre à l'é
 5. Ajout des 6 premières lignes dans le fichier 'juste_du_texte.txt' avec notepad++, commannde 'start_notepad++_juste_du_texte.txt'
 6. Ajout des modif à l'index 'git add...'
 7. Premier commit en local 'git commit -m ""'
+8. Création du fichier 'Git_commandes_principales.txt'
+9. Ajout des commandes principales dans le fichier 'Git_commandes_principales.txt'
+10. Ajout des lignes 7 à 15 dans le fichier 'juste_du_texte.txt'
