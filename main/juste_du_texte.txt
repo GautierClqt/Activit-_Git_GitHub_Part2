@@ -1,0 +1,6 @@
+Comme son nom l'indique ce document ne contient que du texte.
+Je ne suis pas développeur, pas encore.
+Je suis le parcours de développeur applications Android sur Openclassrooms.
+Je n'en suis qu'au début, je n'ai pas encore appris à coder c'est pourquoi vous n'en trouvera pas.
+Pour l'instant je découvre Git et GitHub et je trouve ça vraiment intéressant.
+Ayant plusieurs projets de développement en tête je pense que ça me sera utile.
